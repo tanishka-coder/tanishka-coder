@@ -71,20 +71,17 @@ Here’s what I love working with:
 
 ### 🛠️ Algorithm Visualizer
 * **Tech Stack:** JavaScript, Data Structures, HTML, CSS  
-* Developed an interactive web-based visualizer demonstrating sorting and searching algorithms including **Merge Sort, Quick Sort, and Binary Search**.
-* Implemented real-time DOM updates to visualize algorithm execution step-by-step, greatly improving conceptual understanding of time complexities.
+* Developed an interactive web-based visualizer demonstrating sorting and searching algorithms including **Merge Sort, Quick Sort, and Binary Search**. Implemented real-time DOM updates to visualize algorithm execution step-by-step, greatly improving conceptual understanding of time complexities.
 * Optimized rendering logic to ensure smooth transitions and responsive UI animations for varying datasets.
 
 ### 📋 Smart Task Manager
 * **Tech Stack:** JavaScript, Local Storage API, Responsive CSS UI  
-* Built a lightweight productivity web application enabling task scheduling, status tracking, and deadline management.
-* Implemented local browser-based persistence utilizing **Web Storage API** to seamlessly manage safe CRUD operations.
+* Built a lightweight productivity web application enabling task scheduling, status tracking, and deadline management. Implemented local browser-based persistence utilizing **Web Storage API** to seamlessly manage safe CRUD operations.
 * Architected modular frontend structures prioritizing future maintainability and clear responsibilities.
 
 ### 🧰 C++ Problem Solving Toolkit
 * **Tech Stack:** C++, Standard Template Library (STL), Algorithm Design  
-* Developed custom, highly-reusable implementations of core data structures including **stacks, queues, linked lists, and trees** using C++ STL.
-* Structured optimal solution sets minimizing overall time and space complexity matrices.
+* Developed custom, highly-reusable implementations of core data structures including **stacks, queues, linked lists, and trees** using C++ STL. Structured optimal solution sets minimizing overall time and space complexity matrices.
 * Implemented robust modular code structures ready for competitive programming deployment.
 
 ---
