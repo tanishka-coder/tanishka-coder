@@ -18,7 +18,7 @@ I have a strong foundation in **Data Structures, Algorithms, Object-Oriented Pro
 
 ---
 
-#3 💻 Tech Stack
+## 💻 Tech Stack
 
 Here’s what I love working with:
 
@@ -45,7 +45,7 @@ Here’s what I love working with:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Cloud & DevOps (Foundational)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
