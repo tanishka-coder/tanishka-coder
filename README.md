@@ -90,8 +90,7 @@ Here’s what I love working with:
 
 **Tech Stack:** Node.js, Express.js, MongoDB, JWT, Redis
 
-* Built a secure backend system for managing student records, attendance, notices, and event registrations with role-based authentication.
-* Implemented **JWT authentication**, API rate limiting, caching with **Redis**, and centralized error handling for production-grade performance.
+* Built a secure backend system for managing student records, attendance, notices, and event registrations with role-based authentication. Implemented **JWT authentication**, API rate limiting, caching with **Redis**, and centralized error handling for production-grade performance.
 * Designed modular RESTful APIs following clean architecture principles, making the system highly scalable and maintainable.
 ---
 
