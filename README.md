@@ -134,3 +134,7 @@ Here’s what I love working with:
 <p align="center">
   <sub>© 2026 Tanishka Soni • Built with curiosity, consistency, and code 🚀</sub>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Animation"/>
+</div>
