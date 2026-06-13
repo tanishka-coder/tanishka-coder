@@ -78,21 +78,31 @@ Here’s what I love working with:
 
 ## 🚀 Featured Projects
 
-### 🛠️ Algorithm Visualizer
-* **Tech Stack:** JavaScript, Data Structures, HTML, CSS  
-* Developed an interactive web-based visualizer demonstrating sorting and searching algorithms including **Merge Sort, Quick Sort, and Binary Search**. Implemented real-time DOM updates to visualize algorithm execution step-by-step, greatly improving conceptual understanding of time complexities.
-* Optimized rendering logic to ensure smooth transitions and responsive UI animations for varying datasets.
+### 🤖 AI Resume Analyzer & Career Assistant
 
-### 📋 Smart Task Manager
-* **Tech Stack:** JavaScript, Local Storage API, Responsive CSS UI  
-* Built a lightweight productivity web application enabling task scheduling, status tracking, and deadline management. Implemented local browser-based persistence utilizing **Web Storage API** to seamlessly manage safe CRUD operations.
-* Architected modular frontend structures prioritizing future maintainability and clear responsibilities.
+**Tech Stack:** Python, FastAPI, React, OpenAI API, PostgreSQL
 
-### 🧰 C++ Problem Solving Toolkit
-* **Tech Stack:** C++, Standard Template Library (STL), Algorithm Design  
-* Developed custom, highly-reusable implementations of core data structures including **stacks, queues, linked lists, and trees** using C++ STL. Structured optimal solution sets minimizing overall time and space complexity matrices.
-* Implemented robust modular code structures ready for competitive programming deployment.
+* Developed an AI-powered web application that analyzes resumes, extracts key skills, and provides personalized improvement suggestions based on current industry standards.
+* Integrated LLM capabilities to generate interview questions, recommend learning roadmaps, and match resumes with relevant job descriptions.
+* Designed a scalable backend using **FastAPI** with REST APIs and optimized database queries for efficient processing.
+---
 
+### ⚡ Smart Campus Backend Management System
+
+**Tech Stack:** Node.js, Express.js, MongoDB, JWT, Redis
+
+* Built a secure backend system for managing student records, attendance, notices, and event registrations with role-based authentication.
+* Implemented **JWT authentication**, API rate limiting, caching with **Redis**, and centralized error handling for production-grade performance.
+* Designed modular RESTful APIs following clean architecture principles, making the system highly scalable and maintainable.
+---
+
+### 🧠 AI Study Buddy & Notes Generator
+
+**Tech Stack:** React, Node.js, Google Gemini API, Firebase
+
+* Created an intelligent learning assistant that generates concise notes, quizzes, flashcards, and summaries from uploaded PDFs and lecture content using Generative AI.
+* Implemented semantic search and context-aware question answering to help students quickly understand complex topics.
+* Integrated Firebase Authentication and cloud storage for secure user management and personalized learning history.
 ---
 
 ## 📊 GitHub Dashboard
