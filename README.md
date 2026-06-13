@@ -82,7 +82,7 @@ Here’s what I love working with:
 
 **Tech Stack:** Python, FastAPI, React, OpenAI API, PostgreSQL
 
-* Developed an AI-powered web application that analyzes resumes, extracts key skills, and provides personalized improvement suggestions based on current industry standards. Integrated LLM capabilities to generate recommend learning roadmaps, and match resumes with relevant job descriptions.
+* Developed an AI-powered web application that analyzes resumes, extracts key skills, and provides personalized improvement suggestions based on current industry standards. Integrated LLM capabilities to match resumes with relevant job descriptions.
 * Designed a scalable backend using **FastAPI** with REST APIs and optimized database queries for efficient processing.
 ---
 
