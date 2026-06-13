@@ -18,8 +18,16 @@ I have a strong foundation in **Data Structures, Algorithms, Object-Oriented Pro
 </p>
 
 ---
-
-## 💻 Tech Stack
+<h2>
+  💻 Tech Stack &nbsp;|&nbsp;
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=7B68EE&vCenter=true&width=800&lines=CSE+Undergraduate+%40+GL+BITM;Software+Developer+in+Progress;DSA+%7C+OOP+%7C+Problem+Solving;Frontend+Development+%7C+React;Java+%7C+C%2B%2B+%7C+Python;Cloud+Computing+Explorer;GDSC+Community+Member;Google+Big+Code+2026+Qualifier;Building+Clean+and+Scalable+Code;Learning+Today+Leading+Tomorrow"
+      alt="Typing SVG"
+      align="center"
+    />
+  </a>
+</h2>
 
 Here’s what I love working with:
 
