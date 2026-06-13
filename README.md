@@ -82,7 +82,7 @@ Here’s what I love working with:
 
 **Tech Stack:** Python, FastAPI, React, OpenAI API, PostgreSQL
 
-* Developed an AI-powered web application that analyzes resumes, extracts key skills, and provides personalized improvement suggestions based on current industry standards. Integrated LLM capabilities to generate interview questions, recommend learning roadmaps, and match resumes with relevant job descriptions.
+* Developed an AI-powered web application that analyzes resumes, extracts key skills, and provides personalized improvement suggestions based on current industry standards. Integrated LLM capabilities to generate recommend learning roadmaps, and match resumes with relevant job descriptions.
 * Designed a scalable backend using **FastAPI** with REST APIs and optimized database queries for efficient processing.
 ---
 
@@ -99,8 +99,7 @@ Here’s what I love working with:
 
 **Tech Stack:** React, Node.js, Google Gemini API, Firebase
 
-* Created an intelligent learning assistant that generates concise notes, quizzes, flashcards, and summaries from uploaded PDFs and lecture content using Generative AI. Implemented semantic search and context-aware question answering to help students quickly understand complex topics.
-* Integrated Firebase Authentication and cloud storage for secure user management and personalized learning history.
+* Created an intelligent learning assistant that generates concise notes, quizzes, flashcards, and summaries from uploaded PDFs and lecture content using Generative AI. Implemented semantic search and context-aware question answering to help students quickly understand complex topics. Integrated Firebase Authentication and cloud storage for secure user management and personalized learning history.
 ---
 
 ## 📊 GitHub Dashboard
